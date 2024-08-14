@@ -60,6 +60,6 @@ Route::resources([
     'jenis-cuti' => JenisCutiController::class,
     'pengajuan' => PengajuanController::class,
 
-
+/////hjbshbdjsbdb//
 
 ]);
